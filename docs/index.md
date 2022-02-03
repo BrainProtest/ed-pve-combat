@@ -4,11 +4,11 @@ Welcome, dear Combat Pilot,
 
 this website will provide you with the following assets for Elite:Dangerous PvE (non-AX) ship-to-ship combat:
 
-- [:material-information-outline: Basic and Fully Engineered **Ship Builds**](../ships/overview)
+- [:material-information-outline: Basic and Fully Engineered **Ship Builds**](./ships/overview)
 {: .hide-bullets }
-- [:material-information-outline: Information and Tutorials on **Outfitting**](../outfitting/overview)
+- [:material-information-outline: Information and Tutorials on **Outfitting**](./outfitting/overview)
 {: .hide-bullets }
-- [:material-information-outline: An Overview of **Tactics**](../tactics/beginners)
+- [:material-information-outline: An Overview of **Tactics**](./tactics/beginners)
 {: .hide-bullets }
 
 and more!
