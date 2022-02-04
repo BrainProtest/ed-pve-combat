@@ -1,6 +1,8 @@
-# Overview
+![Banner](./assets/banners/banner3.jpg){.banner loading=lazy }
 
-Welcome, dear Combat Pilot,
+# Welcome
+
+Dear Combat Pilot,
 
 this website will provide you with the following assets for Elite:Dangerous PvE (non-AX) ship-to-ship combat:
 

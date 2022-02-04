@@ -53,3 +53,8 @@ li.hide-bullets {
     list-style-type: none;
     margin-left: 0 !important;
 }
+
+.banner {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
