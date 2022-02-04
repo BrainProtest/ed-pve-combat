@@ -35,10 +35,10 @@ Energy in this capacitor is used for:
 
 Your goal as a pilot is to make optimal use of your distributor energy by directing it where it is needed most currently. However it is very important not to neglect secondary effects here. In normal combat engagements this will usually require full pip reassignments atleast every couple of seconds and up to multiple times a second. You need to also think in advance, as it's ideal to start shooting with a full capacitor, and you might anticipate needing a boost.
 
-Check out the [:material-information-outline: Positioning](../overview#positioning) section for examples on how to do this.
+Check out the [:material-information-outline: Positioning](../positioning) section for examples on how to do this.
 
 ## Macros
 
 Using simple macros to manage pips is widely accepted as legitimate within the Elite Community, and tolerated by Frontier Developments. A basic yet quite effective macro will assign full 4 pips to SYS/ENG/WEP recipient with a single button press.
 
-[:material-link: Example Autohotkey-Script](https://drive.google.com/file/d/1A7vqnYS2I8wx_2ZqXQiRmLJpYooTWto9/view)
+[:material-file-download: basicpipmacro.ahk](../../files/basicpipmacro.ahk)
