@@ -1,3 +1,6 @@
+![Banner](../assets/banners/banneredsy.jpg){loading=lazy}
+{: .banner }
+
 # E:D Shipyard Module Presets
 ## What are Module Presets?
 

@@ -1,4 +1,5 @@
-![Banner](./assets/banners/banner3.jpg){.banner loading=lazy }
+![Banner](./assets/banners/banner3.jpg){loading=lazy}
+{: .banner }
 
 # Welcome
 

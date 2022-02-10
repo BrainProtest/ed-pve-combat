@@ -1,4 +1,5 @@
-![Banner](../assets/banners/banner4.jpg){.banner loading=lazy }
+![Banner](../assets/banners/banner4.jpg){loading=lazy}
+{: .banner }
 
 # Fer-de-Lance
 ![Ship Image](../assets/icons/fer-de-lance.svg){.detailsShipImage}

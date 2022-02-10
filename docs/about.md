@@ -1,4 +1,5 @@
-![Banner](../assets/banners/banner1.jpg){.banner loading=lazy }
+![Banner](../assets/banners/banner1.jpg){loading=lazy}
+{: .banner }
 
 # About
 
@@ -19,6 +20,6 @@ This site was generated using [:material-link: Material for MkDocs](https://squi
 ## External Assets
 ### Elite Dangerous Assets
 ![Ship Icon](../assets/icons/dolphin.svg){.image150}
-![Ship Icon](/assets/icons/vulture.svg){.image150}
+![Ship Icon](../assets/icons/vulture.svg){.image150}
 
 All of the ship icons were sourced from [:material-link: Elite Dangerous Assets](https://edassets.org/#/){target=_blank}. The original author is [:material-link: CMDR Qohen Leth](https://forums.frontier.co.uk/members/qohen-leth.118579/) and the icons were published under [:material-link: CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) License

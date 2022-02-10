@@ -1,3 +1,6 @@
+![Banner](../assets/banners/bannerkeyboard.jpg){loading=lazy}
+{: .banner }
+
 # Improved Preset for Mouse & Keyboard
 ## Installing the Controls Preset
 ### 1. Download the controls file
