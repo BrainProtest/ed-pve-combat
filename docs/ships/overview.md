@@ -59,3 +59,5 @@ Some builds require **disabling cargo hatch (and AFMU) via power priorities**, d
 In Coriolis, use the **$** symbol (top right) to open a link to EDDB with all modules filled in. In EDSY this function is in the same area, hidden behind the **OPS** button.
 
 Weapon loadouts are often down to preference, experiment with them!
+
+The larger ships especially have plenty of optionals which can be used for utility (GFSD Booster etc.) instead of armor as present in the example builds.
