@@ -1,0 +1,93 @@
+site_name: PvE Combat Knowledgebase
+site_url: https://brainprotest.github.io/ed-pve-combat/
+# repo_url: https://github.com/brainprotest/ed-pve-combat
+# repo_name: BrainProtest/ed-pve-combat
+theme:
+  logo: assets/logo-white.svg
+  favicon: assets/logo-red.svg
+  name: material
+  custom_dir: overrides/
+  palette:
+    scheme: slate
+    primary: red
+    secondary: orange
+  features:
+    - navigation.tabs
+    - navigation.instant
+    - navigation.tracking
+extra_css:
+  - assets/extra.css
+markdown_extensions:
+  - meta
+  - abbr
+  - attr_list
+  - tables
+  - admonition
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - pymdownx.snippets
+nav:
+  - 'Home': 
+    - 'Welcome': 'index.md'
+    - 'About' : 'about.md'
+  - 'Ships and Builds': 
+    - 'ships/overview.md'
+    - 'ships/list.md'
+    - 'Viper Mk. III' : 'ships/viper3.md'
+    - 'Vulture' : 'ships/vulture.md'
+    - 'Alliance Chieftain' : 'ships/chieftain.md'
+    - 'Anaconda' : 'ships/anaconda.md'
+    - 'Alternatives':
+      - '(S) Eagle Mk. II' : 'ships/eagle2.md'
+      - '(S) Imperial Courier' : 'ships/courier.md'
+      - '(S) Viper Mk. IV' : 'ships/viper4.md'
+      - '(S) Diamondback Scout' : 'ships/diamondbackscout.md'
+      - '(M) Alliance Challenger' : 'ships/challenger.md'
+      - '(M) Alliance Crusader' : 'ships/crusader.md'
+      - '(M) Fer-de-Lance' : 'ships/ferdelance.md'
+      # - '(M) Mamba' : 'ships/mamba.md'
+      # - '(M) Krait Mk. II' : 'ships/krait2.md'
+      # - '(M) Krait Phantom' : 'ships/phantom.md'
+      - '(M) Python' : 'ships/python.md'
+      - '(L) Federal Corvette' : 'ships/corvette.md'
+      - '(L) Imperial Cutter' : 'ships/cutter.md'
+  - 'Outfitting':
+    - 'Overview': 'outfitting/overview.md'
+    - 'Defense Strategies': 'outfitting/defense.md'
+    - 'Weapons':
+      - 'Overview' : 'outfitting/weapons/overview.md'
+      - 'Lasers': 'outfitting/weapons/lasers.md'
+      - 'Multicannon': 'outfitting/weapons/multicannon.md'
+      - 'Fragment Cannon': 'outfitting/weapons/fragmentcannon.md'
+      - 'Cannon': 'outfitting/weapons/cannon.md'
+      - 'Railgun': 'outfitting/weapons/railgun.md'
+      - 'Plasma Accelerator': 'outfitting/weapons/plasmaaccelerator.md'
+    - 'Modules':
+      - 'Overview': 'outfitting/modules/overview.md'
+      - 'Shield Cell Bank': 'outfitting/modules/shieldcellbank.md'
+  - 'Tactics':
+    - 'tactics/beginners.md'
+    - 'tactics/positioning.md'
+    - 'tactics/pips.md'
+    - 'tactics/damage.md'
+    - 'tactics/moduletargeting.md'
+    - 'tactics/faoff.md'
+  - 'More':
+    - 'Controls Presets': 'misc/controls.md'
+    - 'ED Shipyard Module Presets': 'misc/edsymodulepresets.md'
+    - 'Glossary' : 'misc/glossary.md'
+extra:
+  generator: false

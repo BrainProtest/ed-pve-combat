@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="layer1">
+    <path
+       id="rect33"
+       style="fill:#ffa724;fill-opacity:1;fill-rule:evenodd;stroke-width:0.999999"
+       d="M 4 0 L 4 64 L 60 64 L 60 0 L 4 0 z M 7 3 L 57 3 L 57 61 L 7 61 L 7 3 z "
+       transform="scale(0.26458334)" />
+  </g>
+  <g
+     id="layer4">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.4339px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:'FreeMono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffa724;fill-opacity:1;stroke:none;stroke-width:0.336509"
+       x="1.4152814"
+       y="15.076833"
+       id="text36359"
+       transform="scale(1.0427357,0.95901577)"><tspan
+         id="tspan36357"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.4339px;font-family:FreeMono;-inkscape-font-specification:'FreeMono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffa724;fill-opacity:1;stroke-width:0.336509"
+         x="1.4152814"
+         y="15.076833">S</tspan></text>
+  </g>
+  <g
+     id="layer2"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.4339px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:'FreeMono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffa724;fill-opacity:1;stroke:none;stroke-width:0.336509"
+       x="1.4153584"
+       y="15.076907"
+       id="text36359-7"
+       transform="scale(1.0427357,0.95901579)"><tspan
+         id="tspan36357-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.4339px;font-family:FreeMono;-inkscape-font-specification:'FreeMono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffa724;fill-opacity:1;stroke-width:0.336509"
+         x="1.4153584"
+         y="15.076907">M</tspan></text>
+  </g>
+  <g
+     id="layer3"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.4339px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:'FreeMono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffa724;fill-opacity:1;stroke:none;stroke-width:0.336509"
+       x="1.4154751"
+       y="15.076883"
+       id="text36359-7-5"
+       transform="scale(1.0427357,0.95901579)"><tspan
+         id="tspan36357-4-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.4339px;font-family:FreeMono;-inkscape-font-specification:'FreeMono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffa724;fill-opacity:1;stroke-width:0.336509"
+         x="1.4154751"
+         y="15.076883">L</tspan></text>
+  </g>
+</svg>
