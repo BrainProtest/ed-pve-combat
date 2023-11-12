@@ -3,11 +3,11 @@
 
 Hardpoint Configuration: [:material-link: E:D Ship Anatomy](https://siriuscorp.cc/edsa/?s=eagle){target=_blank, .bulletinLink}
 
-Cheaper fully kitted out than the [:material-information-outline Viper Mk III](./viper3.md), and:
+Cheaper fully kitted out than the [:material-information-outline: Viper Mk III](./viper3.md), and:
 
 * slightly more agile
 * significantly less survivability
-* a big downgrade in offensive capability
+* weak offense
 
 Unengineered builds are forced into hulltanking.
 

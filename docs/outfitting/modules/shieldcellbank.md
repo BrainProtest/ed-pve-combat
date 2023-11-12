@@ -1,3 +1,0 @@
-# Shield Cell Bank
-
-TODO

@@ -77,7 +77,8 @@ nav:
       - 'Plasma Accelerator': 'outfitting/weapons/plasmaaccelerator.md'
     - 'Modules':
       - 'Overview': 'outfitting/modules/overview.md'
-      - 'Shield Cell Bank': 'outfitting/modules/shieldcellbank.md'
+      - 'Core Internal': 'outfitting/modules/core.md'
+      - 'Optional Internal': 'outfitting/modules/optional.md'
   - 'Tactics':
     - 'tactics/beginners.md'
     - 'tactics/positioning.md'
