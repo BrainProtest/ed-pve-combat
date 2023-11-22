@@ -46,7 +46,7 @@ Engineering:
 
 ## Frame Shift Drive
 
-Not super relevant to combat ships, but generally a good idea to run the biggest class A-rated FSD. Engineering **Increased Range** + **Mass Manager**
+Not super relevant to combat ships, but generally a good idea to run the biggest class A-rated FSD. Engineering: **Increased Range** + **Mass Manager**
 
 ## Life Support
 

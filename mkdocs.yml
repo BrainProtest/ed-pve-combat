@@ -76,9 +76,9 @@ nav:
       - 'Railgun': 'outfitting/weapons/railgun.md'
       - 'Plasma Accelerator': 'outfitting/weapons/plasmaaccelerator.md'
     - 'Modules':
-      - 'Overview': 'outfitting/modules/overview.md'
       - 'Core Internal': 'outfitting/modules/core.md'
       - 'Optional Internal': 'outfitting/modules/optional.md'
+      - 'Utility Mounts': 'outfitting/modules/utility.md'
   - 'Tactics':
     - 'tactics/beginners.md'
     - 'tactics/positioning.md'
@@ -86,6 +86,9 @@ nav:
     - 'tactics/damage.md'
     - 'tactics/moduletargeting.md'
     - 'tactics/faoff.md'
+  - 'Mechanics':
+    - 'mechanics/general.md'
+    - 'mechanics/damage.md'
   - 'More':
     - 'Controls Presets': 'misc/controls.md'
     - 'ED Shipyard Module Presets': 'misc/edsymodulepresets.md'

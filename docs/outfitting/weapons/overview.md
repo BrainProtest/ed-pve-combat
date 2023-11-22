@@ -1,20 +1,5 @@
 # Weapons
 
-<!-- - [:material-information-outline: Lasers](./weapons/lasers.md)
-{: .hide-bullets }
-- [:material-information-outline: Multicannon](./weapons/multicannon.md)
-{: .hide-bullets }
-- [:material-information-outline: Railgun](./weapons/railgun.md)
-{: .hide-bullets }
-- [:material-information-outline: Cannon](./weapons/cannon.md)
-{: .hide-bullets }
-- [:material-information-outline: Fragment Cannon](./weapons/fragmentcannon.md)
-{: .hide-bullets }
-- [:material-information-outline: Plasma Accelerator](./weapons/plasmaaccelerator.md)
-{: .hide-bullets }
-- [:material-information-outline: Other](#other-weapons)
-{: .hide-bullets } -->
-
 ## General Considerations
 
 - Keep damage types and their advantages & disadvantages in mind! Refer to [:material-information-outline: Tactics/Damage](../../tactics/damage.md).
@@ -34,17 +19,10 @@ Turrets should be avoided. They have bad damage output and slow tracking (so slo
 
 When fitting fixed weaponry with the goal of firing multiple weapons at once, hardpoint convergence becomes very important. Use [:material-link: E:D Ship Anatomy](https://siriuscorp.cc/edsa/) to identify such groups. Also keep the above considerations in mind.
 
-## Shared Mechanics
-
-- **Falloff Start**: Beyond this range, the actual damage dealt is interpolated between the maximum damage at the falloff start, down to zero damage at the weapons maximum range
-- **Piercing**: When striking an enemy hull (shields are unaffected), the actual damage dealt can be reduced by the correlation of the weapons piercing vs. the hulls hardness. If the piercing is smaller than the hull hardness, the damage is reduced by the ratio of the piercing/hardness. Full damage is dealt otherwise.
-- **Magazines**: All ammo-fed weapons draw from a magazine (between 1 and 100 rounds). Magazines cannot be reloaded or discarded manually. Magazines are replenished from the ammo pool once empty.
-- **Breaching**: TODO
-
 ## Good Weapon Combinations
 ### Unengineered
 
-Nobrainer:
+No-brainer:
 
 - Smaller fixed **Pulse/Burst** + larger gimballed **Multicannon**
 - Smaller fixed **Pulse/Burst** + larger gimballed **Fragment Cannon**

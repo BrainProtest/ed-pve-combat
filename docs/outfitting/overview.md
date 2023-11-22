@@ -2,7 +2,7 @@
 
 ## Notes
 
-It is not recommended to upgrade to the next ship as soon as the basic hull is affordable. Unupgraded ships are with no exception bad, and will most likely represent a downgrade from a previous upgraded ship.
+It is not recommended to upgrade to the next ship as soon as the basic hull is affordable. Ships without upgraded modules are with no exception bad, and will most likely represent a downgrade from a previous upgraded ship.
 
 On combat ships, you should only carry modules directly beneficial to the ships combat effectiveness under normal circumstances.
 

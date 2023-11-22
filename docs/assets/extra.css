@@ -67,6 +67,17 @@
     color: grey;
 }
 
+.image-with-caption {
+    margin-bottom: 0;
+}
+
+.caption {
+    margin-top: 0;
+    line-height: 1;
+    font-size: 0.75em;
+    color: grey;
+}
+
 .grey {
     color: grey;
 }

@@ -25,7 +25,7 @@ Two factors affect how much damage is resisted:
 
 Regeneration:
 
-* The shield will begin regenerating at full speed after 5 seconds of not taking weapon damage (collision damage does not affect this cooldown)
+* The shield will begin regenerating at full speed after 2 seconds of not taking weapon damage (collision damage does not affect this cooldown)
 * The shields "Regen Rate" stat determines how quickly regeneration happens
 
 Rebuilding:
