@@ -11,13 +11,13 @@
 
 For all weapons, the preferred mounting type is Fixed. Upgrading from a gimballed weapon to a fixed one comes at a bonus of ~ 20% to ~ 50% more damage output, a reduction of ~ 7% distributor draw and additional ~ 40% to ~ 80% total damage per ammo pool, amongst other minor stat differences. Exact numbers vary across weapon sizes and types. Further, fixed weaponry is immune to chaff and has a micro gimbal effect which snaps to target modules within a few pixels.
 
-Fixed mounting can be unviable, this could be lack of pilot skill (that being said, only way to learn fixed is to use it), bad hardpoint convergence, or mixing weapons of different shotspeeds.
+Fixed mounting can be unviable, this could be lack of pilot skill (that being said, only way to learn fixed is to use it), bad hardpoint [convergence](../../misc/glossary.md#convergence), or mixing weapons of different shotspeeds.
 
 Turrets should be avoided. They have bad damage output and slow tracking (so slow that in reality they often end up with less ToT than a gimballed counterpart, assuming any piloting at all is done). All ships in the game handle well enough to subsequently perform better with gimballed and/or fixed.
 
 ### Identifying Hardpoint Groups
 
-When fitting fixed weaponry with the goal of firing multiple weapons at once, hardpoint convergence becomes very important. Use [:material-link: E:D Ship Anatomy](https://siriuscorp.cc/edsa/) to identify such groups. Also keep the above considerations in mind.
+When fitting fixed weaponry with the goal of firing multiple weapons at once, hardpoint [convergence](../../misc/glossary.md#convergence){.glossaryLink} becomes very important. Use [:material-link: E:D Ship Anatomy](https://siriuscorp.cc/edsa/) to identify such groups. Also keep the above considerations in mind.
 
 ## Good Weapon Combinations
 ### Unengineered

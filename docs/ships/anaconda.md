@@ -7,7 +7,7 @@ The ultimate PvE bastion:
 
 * Sufficiently tanky
 * Decently agile (comparable to Federal Corvette, significantly better than Imperial Cutter)
-* Very good hardpoint quantity and convergence with the biggest distributor available
+* Very good hardpoint quantity and [convergence](../../misc/glossary.md#convergence) with the biggest distributor available
 
 Should be built as a shield tank, regardless of access to engineering.
 

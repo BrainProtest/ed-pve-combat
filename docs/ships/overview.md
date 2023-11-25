@@ -24,10 +24,10 @@
 |:-|:-|:-|
 |![](../assets/icons/fer-de-lance.svg){.image100 loading=lazy}|[:material-information-outline: Fer-de-Lance](./ferdelance.md)|High skill floor and ceiling flight model, great hardpoints and very strong shields|
 |![](../assets/icons/alliance-challenger.svg){.image100 loading=lazy}|[:material-information-outline: Alliance Challenger](./challenger.md) |Very tanky and great offense.|
-|![](../assets/icons/alliance-crusader.svg){.image100 loading=lazy}|[:material-information-outline:  Alliance Crusader](./crusader.md) |Slightly slower and less tanky than the Chieftain, but can equip a fighter hangar.|
-|![](../assets/icons/mamba.svg){.image100 loading=lazy}|:wip: Mamba |Fast in a straight line, but less agile in other aspects. Very good shields, many big hardpoints with bad convergence.|
-|![](../assets/icons/krait-mk-ii.svg){.image100 loading=lazy}|:wip: Krait Mk. II|A very easy to learn but low potential flight model, however great offensive options, decent defense and the option to carry a fighter hangar.|
-|![](../assets/icons/krait-phantom.svg){.image100 loading=lazy}|:wip: Krait Phantom|Fast lightweight ship (similar flight model to the Krait Mk. 2) with great offensive and decent defensive options.|
+|![](../assets/icons/alliance-crusader.svg){.image100 loading=lazy}|[:material-information-outline: Alliance Crusader](./crusader.md) |Slightly slower and less tanky than the Chieftain, but can equip a fighter hangar.|
+<!-- |![](../assets/icons/mamba.svg){.image100 loading=lazy}|:wip: Mamba |Fast in a straight line, but less agile in other aspects. Very good shields, many big hardpoints with bad convergence.| -->
+|![](../assets/icons/krait-mk-ii.svg){.image100 loading=lazy}|[:material-information-outline:  Krait Mk II](./krait2.md)|A very easy to learn but low potential flight model, however great offensive options, decent defense and the option to carry a fighter hangar.|
+<!-- |![](../assets/icons/krait-phantom.svg){.image100 loading=lazy}|:wip: Krait Phantom|Fast lightweight ship (similar flight model to the Krait Mk. 2) with great offensive and decent defensive options.| -->
 |![](../assets/icons/python.svg){.image100 loading=lazy}|[:material-information-outline: Python](./python.md)|Not as easy to fly and slower, but tankier.|
 
 ### Large Ships

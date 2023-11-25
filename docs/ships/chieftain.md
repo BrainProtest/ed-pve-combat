@@ -6,7 +6,7 @@ Hardpoint Configuration: [:material-link: E:D Ship Anatomy](https://siriuscorp.c
 A cost-effective powerful medium-pad combat ship
 
 * Great turnrates, decent boost, passable lateral/vertical thrusters
-* Great hardpoint convergence
+* Great hardpoint [convergence](../../misc/glossary.md#convergence)
 
 When unengineered the poor initial shield capacity makes shield cell banks ineffective, forcing a hull tank configuration. Engineering, particularly Guardian Shield Reinforcements allow shield tanking.
 

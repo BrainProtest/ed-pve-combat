@@ -20,16 +20,19 @@
     margin-left: 2em;
 }
 
-.layout-flex
-{
+.layout-flex {
     display: flex;
     justify-content: center;
 }
 
-.md-typeset__table
-{
-    display: flex;
-    justify-content: center;
+a.glossaryLink:hover {
+    color: var(--md-accent-fg-color);
+    border-color: var(--md-accent-fg-color);
+}
+a.glossaryLink {
+    color: var(--md-typeset-color);
+    text-decoration: none;
+    border-bottom: 0.1em dotted var(--md-typeset-color);
 }
 
 .bulletinLink
