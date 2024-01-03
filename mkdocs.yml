@@ -1,7 +1,7 @@
 site_name: PvE Combat Knowledgebase
 site_url: https://brainprotest.github.io/ed-pve-combat/
-# repo_url: https://github.com/brainprotest/ed-pve-combat
-# repo_name: BrainProtest/ed-pve-combat
+repo_url: https://github.com/brainprotest/ed-pve-combat
+repo_name: "Github: ed-pve-combat"
 theme:
   logo: assets/logo-white.svg
   favicon: assets/logo-red.svg

@@ -12,8 +12,10 @@ Mullticannons offer great damage output at very little distributor draw. Further
 
 |Modification|Effect|
 |-|-|
-|:material-star: Overcharged|Increase damage output and ammo pool size|
-|Short Range|TODO|
+|Overcharged|Increase damage output. Slight increase in thermal load, Slight increase in distributor draw. Reduced ammo clip size. |
+|Short Range|Increased damage output. Increased thermal load, decreased max range. |
+
+Both of these mods increase the effective total damage per ammo pool significantly.
 
 ### Experimentals
 

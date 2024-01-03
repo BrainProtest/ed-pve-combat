@@ -6,7 +6,7 @@ Hardpoint Configuration: [:material-link: E:D Ship Anatomy](https://siriuscorp.c
 A definite downgrade from its brother the [:material-information-outline: Fer-de-Lance](./ferdelance.md): 
 
 * Reduced survivability
-* Worse offense due to bad hardpoint [convergence](../../misc/glossary.md#convergence)
+* Worse offense due to bad hardpoint [convergence](../misc/glossary.md#convergence)
 * Faster, but overall worse flight model
 
 The only benefit over an [:material-information-outline: Alliance Chieftain](./chieftain.md) would be the ability to shieldtank unengineered, a downgrade in every other aspect.

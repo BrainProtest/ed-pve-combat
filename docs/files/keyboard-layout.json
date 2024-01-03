@@ -1,0 +1,386 @@
+[
+  {
+    "backcolor": "#303030"
+  },
+  [
+    {
+      "c": "#383838",
+      "t": "#484848"
+    },
+    "Esc",
+    {
+      "x": 1,
+      "c": "#038030",
+      "t": "#EEEEEE",
+      "f2": 1
+    },
+    "F1\nselect wingman 1",
+    "F2\nselect wingman 2",
+    "F3\nselect wingman 3",
+    "F4\ncopy wingman Target",
+    {
+      "x": 0.5
+    },
+    "F5\nwingman navlock",
+    {
+      "c": "#383838",
+      "t": "#484848"
+    },
+    "F6",
+    "F7",
+    "F8"
+  ],
+  [
+    {
+      "y": 0.5
+    },
+    "~\n`",
+    {
+      "c": "#9d0030",
+      "t": "#EEEEEE"
+    },
+    "1\npip to SYS",
+    "2\npip to ENG",
+    "3\npip to WEP",
+    "4\nbalance pips",
+    {
+      "c": "#038030"
+    },
+    "5\ncycle prev target",
+    "6\ncycle next target",
+    {
+      "x": 7.5,
+      "c": "#5454ad"
+    },
+    "Insert\ntoggle lights",
+    "Home\ntoggle cargo hatch",
+    {
+      "x": 0.5,
+      "c": "#383838",
+      "t": "#484848"
+    },
+    "Num Lock",
+    "/",
+    "*",
+    {
+      "c": "#4e4e00",
+      "t": "#EEEEEE"
+    },
+    "-\nthrottle 50%"
+  ],
+  [
+    {
+      "c": "#757575",
+      "w": 1.5
+    },
+    "Tab\nUI back",
+    {
+      "c": "#4e4e00"
+    },
+    "Q\nroll left",
+    "W\nhover up",
+    "E\nroll right",
+    {
+      "c": "#038030"
+    },
+    "R\ncycle hostile",
+    {
+      "c": "#5454ad"
+    },
+    "T\ndeploy heatsink",
+    {
+      "c": "#383838",
+      "t": "#484848"
+    },
+    "Y",
+    {
+      "c": "#757575",
+      "t": "#EEEEEE"
+    },
+    "U\ntoggle hardpoints",
+    "I\nenter FSS",
+    {
+      "x": 5,
+      "c": "#383838",
+      "t": "#484848"
+    },
+    "Delete",
+    "End",
+    {
+      "x": 0.5,
+      "c": "#4e4e00",
+      "t": "#EEEEEE"
+    },
+    "7\nroll left",
+    "8\npitch up",
+    "9\nroll right",
+    {
+      "h": 2
+    },
+    "+\nthrottle 75%"
+  ],
+  [
+    {
+      "c": "#383838",
+      "t": "#484848",
+      "w": 1.75
+    },
+    "Caps Lock",
+    {
+      "c": "#4e4e00",
+      "t": "#EEEEEE"
+    },
+    "A\nstrafe left",
+    "S\nhover down",
+    "D\nstrafe right",
+    {
+      "c": "#038030"
+    },
+    "F\ntarget ahead",
+    {
+      "c": "#5454ad"
+    },
+    "G\ndeploy shieldcell",
+    {
+      "c": "#383838",
+      "t": "#484848"
+    },
+    "H",
+    {
+      "c": "#5454ad",
+      "t": "#EEEEEE"
+    },
+    "J\nengage FSD",
+    "K\nsuper cruise",
+    "L\nlanding gear",
+    {
+      "x": 1,
+      "c": "#757575",
+      "w": 2.25
+    },
+    "Enter\nquick comms",
+    {
+      "x": 3,
+      "c": "#4e4e00"
+    },
+    "4\nyaw left",
+    "5",
+    "6\nyaw right"
+  ],
+  [
+    {
+      "w": 2.25
+    },
+    "Shift\nincrease throttle",
+    "Z\ntoggle flight assist",
+    "X\nthrottle reset 0%",
+    {
+      "c": "#5454ad"
+    },
+    "C\ndeploy chaff",
+    "V\ncycle firegroup",
+    {
+      "c": "#757575"
+    },
+    "B\ntoggle cockpit mode",
+    "N\ntoggle night vision",
+    "M\ngalaxy map",
+    ",\nsystem map",
+    {
+      "c": "#038030"
+    },
+    ".\nnext system",
+    {
+      "x": 5.75,
+      "c": "#5454ad"
+    },
+    "1\nprimary fire",
+    {
+      "c": "#383838",
+      "t": "#484848"
+    },
+    "2\n↓",
+    {
+      "c": "#5454ad",
+      "t": "#EEEEEE"
+    },
+    "3\nsecondary fire",
+    {
+      "c": "#383838",
+      "t": "#484848",
+      "h": 2
+    },
+    "Enter"
+  ],
+  [
+    {
+      "c": "#4e4e00",
+      "t": "#EEEEEE",
+      "w": 1.25
+    },
+    "Ctrl\ndecrease throttle",
+    {
+      "c": "#383838",
+      "t": "#484848",
+      "w": 1.25
+    },
+    "Win",
+    {
+      "c": "#757575",
+      "t": "#EEEEEE",
+      "w": 1.25
+    },
+    "Alt\nUI access",
+    {
+      "c": "#4e4e00",
+      "w": 6.25
+    },
+    "\nboost",
+    {
+      "x": 7,
+      "c": "#383838",
+      "t": "#484848",
+      "w": 2
+    },
+    "0\nIns",
+    ".\nDel"
+  ],
+  [
+    {
+      "y": 0.5,
+      "c": "#cccccc",
+      "t": "#000000",
+      "a": 7,
+      "fa": [
+        5
+      ],
+      "w": 7
+    },
+    "Mouse",
+    {
+      "x": 0.5,
+      "w": 3.5
+    },
+    "UI access (hold Alt)",
+    {
+      "x": 0.5,
+      "w": 9.5
+    },
+    "Color legend"
+  ],
+  [
+    {
+      "x": 0.25,
+      "c": "#4e4e00",
+      "t": "#EEEEEE",
+      "a": 5,
+      "f2": 1,
+      "w": 2.5
+    },
+    "Mouse X Axis\nyaw",
+    {
+      "x": 0.25,
+      "w": 2.25
+    },
+    "Mouse X Axis\npitch",
+    {
+      "c": "#038030",
+      "a": 4,
+      "fa": [
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1
+      ],
+      "w": 1.5,
+      "h": 2
+    },
+    "\ncycle target subsystems\n\n\n\n\n\n\nScroll Wheel",
+    {
+      "x": 1.75,
+      "c": "#757575"
+    },
+    "W\ncomms panel",
+    {
+      "x": 2.25,
+      "c": "#9d0030",
+      "a": 7,
+      "fa": [
+        5
+      ],
+      "w": 3
+    },
+    "pip management",
+    {
+      "c": "#038030",
+      "w": 3
+    },
+    "targeting",
+    {
+      "c": "#4e4e00",
+      "w": 3
+    },
+    "movement"
+  ],
+  [
+    {
+      "x": 0.25,
+      "c": "#5454ad",
+      "a": 4,
+      "fa": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "w": 1.5
+    },
+    "Mouse Left\nprimary fire",
+    {
+      "c": "#038030",
+      "w": 1.75
+    },
+    "Mouse Middle\nheadlook",
+    {
+      "c": "#5454ad",
+      "w": 1.75
+    },
+    "Mouse Right\nsecondary fire",
+    {
+      "x": 2.5,
+      "c": "#757575"
+    },
+    "A\nnav panel",
+    "S\ncrew/role panel",
+    "D\nship panel",
+    {
+      "x": 1,
+      "c": "#5454ad",
+      "a": 7,
+      "fa": [
+        5
+      ],
+      "w": 3
+    },
+    "systems",
+    {
+      "c": "#757575",
+      "w": 3
+    },
+    "game control"
+  ]
+]

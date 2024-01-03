@@ -6,8 +6,8 @@
 ### 1. Download the controls file
 Go either route:
 
-*   The default preset file [:material-file-download: Brains KB+M Binds.3.0.binds](../files/Brains KB+M Binds.3.0.binds), easiest and quickest to set up
-*   The pip macro preset file [:material-file-download: Brains KB+M Macro Binds.3.0.binds](../files/Brains KB+M Macro Binds.3.0.binds), intended to work with an AHK macro script: [:material-file-download: basicpipmacro.ahk](../files/basicpipmacro.ahk). This script requires [:material-link: AutoHotkey (Free, Open Source Software)](https://www.autohotkey.com/) to be executed (start the script when you start your game).
+*   The default preset file [:material-file-download: Brains KB+M Binds v1.1](../files/Brains KB+M Binds v1.1.4.0.binds), easiest and quickest to set up
+*   The pip macro preset file [:material-file-download: Brains KB+M Macro Binds v1.1](../files/Brains KB+M Macro Binds v1.1.4.0.binds), intended to work with an AHK macro script: [:material-file-download: basicpipmacro.ahk](../files/basicpipmacro.ahk). This script requires [:material-link: AutoHotkey (Free, Open Source Software)](https://www.autohotkey.com/) to be executed (start the script when you start your game).
 ### 2. Navigate to the Bindings Folder
 
 Navigate here:
@@ -31,7 +31,7 @@ Now in the **Options :material-arrow-right: Controls** menu, select the first en
 
 
 ## Control Layout Diagram
-[![Control Layout Diagram](../assets/controllayout.png)](../assets/controllayout.png)
+[![Control Layout Diagram](../assets/keyboard-layout.png)](../assets/keyboard-layout.png)
 Image generated with use of the [:material-link: Keyboard Layout Editor](http://www.keyboard-layout-editor.com/)
 {: .hint }
 
