@@ -31,12 +31,15 @@ This list aims to evaluate all ships in regards to PvE combat effectiveness vs. 
 |:material-star::material-star::material-star::material-star::material-star-outline:{.grey}|	[:material-information-outline: Krait MkII](./krait2.md)||
 |:material-star::material-star::material-star::material-star::material-star-outline:{.grey}|	Krait Phantom	||
 |:material-star::material-star::material-star::material-star-outline:{.grey}:material-star-outline:{.grey}|	[:material-information-outline: Mamba](./mamba.md)||
+|:material-star::material-star::material-star::material-star-outline:{.grey}:material-star-outline:{.grey}|	[:material-information-outline: Mandalay](./mandalay.md)||
 |:material-star::material-star::material-star-outline:{.grey}:material-star-outline:{.grey}:material-star-outline:{.grey}|	Orca	||
 |:material-star::material-star::material-star::material-star::material-star-outline:{.grey}|	[:material-information-outline: Python](./python.md)	||
+|:material-star::material-star::material-star::material-star::material-star:|	[:material-information-outline: Python Mk. II](./python.md)	||
 |:material-star::material-star::material-star::material-star-outline:{.grey}:material-star-outline:{.grey}|	Sidewinder Mk I	||
 |:material-star::material-star::material-star-outline:{.grey}:material-star-outline:{.grey}:material-star-outline:{.grey}|	Type-10 Defender|	Common Noobtrap!|
 |:material-star::material-star-outline:{.grey}:material-star-outline:{.grey}:material-star-outline:{.grey}:material-star-outline:{.grey}|	Type-6 Transporter	||
 |:material-star::material-star-outline:{.grey}:material-star-outline:{.grey}:material-star-outline:{.grey}:material-star-outline:{.grey}|	Type-7 Transporter	||
+|:material-star::material-star::material-star-outline:{.grey}:material-star-outline:{.grey}:material-star-outline:{.grey}|	Type-8 Transporter	||
 |:material-star::material-star-outline:{.grey}:material-star-outline:{.grey}:material-star-outline:{.grey}:material-star-outline:{.grey}|	Type-9 Heavy	||
 |:material-star::material-star::material-star::material-star::material-star:|	[:material-information-outline: Viper Mk III](./viper3.md)	||
 |:material-star::material-star::material-star::material-star::material-star-outline:{.grey}|	[:material-information-outline: Viper Mk IV](./viper4.md)	||

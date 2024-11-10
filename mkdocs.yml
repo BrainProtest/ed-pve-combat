@@ -58,10 +58,12 @@ nav:
       - '(M) Alliance Challenger' : 'ships/challenger.md'
       - '(M) Alliance Crusader' : 'ships/crusader.md'
       - '(M) Fer-de-Lance' : 'ships/ferdelance.md'
+      - '(M) Mandalay' : 'ships/mandalay.md'
       - '(M) Mamba' : 'ships/mamba.md'
       - '(M) Krait Mk. II' : 'ships/krait2.md'
       # - '(M) Krait Phantom' : 'ships/phantom.md'
       - '(M) Python' : 'ships/python.md'
+      - '(M) Python Mk. II' : 'ships/python2.md'
       - '(L) Federal Corvette' : 'ships/corvette.md'
       - '(L) Imperial Cutter' : 'ships/cutter.md'
   - 'Outfitting':
@@ -89,6 +91,7 @@ nav:
   - 'Mechanics':
     - 'mechanics/general.md'
     - 'mechanics/damage.md'
+    - 'mechanics/heat.md'
   - 'More':
     - 'Controls Presets': 'misc/controls.md'
     - 'ED Shipyard Module Presets': 'misc/edsymodulepresets.md'
