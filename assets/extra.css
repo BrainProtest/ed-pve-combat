@@ -1,0 +1,150 @@
+.image150 {
+    width: 150px;
+}
+
+.image100 {
+    width: 100px;
+}
+
+.image50 {
+    width: 50px;
+}
+
+.detailsShipImage {
+    width: 150px;
+    float: left;
+}
+
+.image250 {
+    width: 250px;
+    margin-left: 2em;
+}
+
+.layout-flex {
+    display: flex;
+    justify-content: center;
+}
+
+a.glossaryLink:hover {
+    color: var(--md-accent-fg-color);
+    border-color: var(--md-accent-fg-color);
+}
+a.glossaryLink {
+    color: var(--md-typeset-color);
+    text-decoration: none;
+    border-bottom: 0.1em dotted var(--md-typeset-color);
+}
+
+.bulletinLink
+{
+    background-color: #111;
+    padding: 0.2em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    border-radius: 0.2em;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}
+.bulletinLink:hover
+{
+    background-color: #222;
+}
+
+/* table
+{
+    flex-basis: content;
+} */
+
+.wipBanner {
+    display: flex;
+    justify-content: center;
+    height: 50px;
+}
+
+.wipIcon {
+    height: 0.9em !important;
+}
+
+.hint {
+    font-size: 0.75em;
+    color: grey;
+}
+
+.image-with-caption {
+    margin-bottom: 0;
+}
+
+.caption {
+    margin-top: 0;
+    line-height: 1;
+    font-size: 0.75em;
+    color: grey;
+}
+
+.grey {
+    color: grey;
+}
+
+/* Let content display wider */
+.md-grid {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80rem;
+}
+
+:root {
+    font-size: 30px;
+}
+
+.text-positive {
+    color: lightgreen;
+}
+
+.text-negative {
+    color: red;
+}
+
+li.hide-bullets {
+    list-style-type: none;
+    margin-left: 0 !important;
+}
+
+p.banner img {
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    /* border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem; */
+}
+
+div.md-main__inner {
+    margin-top: 0;
+}
+
+article.md-content__inner {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+article.md-content__inner::before {
+    height: 0;
+}
+
+p.banner{
+    margin-top: 0;
+}
+
+article.md-typeset h1 {
+    margin-bottom: 0.8rem;
+}
+
+article h1:first-of-type {
+    color: var(--md-accent-fg-color);
+    margin-top: 2.5rem;
+}
+
+[data-md-color-scheme="slate"] {
+    --md-default-bg-color: hsla(var(--md-hue),15%,18%,1);
+    --md-default-bg-color--light: hsla(var(--md-hue),15%,18%,0.54);
+    --md-default-bg-color--lighter: hsla(var(--md-hue),15%,18%,0.26);
+    --md-default-bg-color--lightest: hsla(var(--md-hue),15%,18%,0.07);
+}
