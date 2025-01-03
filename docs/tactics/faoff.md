@@ -20,3 +20,6 @@ You should use a ship with decent lateral and vertical thrusters (so avoid Cutte
 1. **Practice your FA-off flight** outside of combat. Flying around stations, asteroid fields and installations works well for this stage. Land with full FA-Off, at an outpost first, then upgrading to a rotating station.
 1. Now begin **using the boost**. Practice in the same locations as listed above.
 1. Now **get into combat**. The rest should come with time.
+
+### Banardos FA-Off Training Playlist
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?si=JPIeOVniFAD3QwxO&amp;list=PLjm7xfGIQjze5DOVTZIm2XaD_rtmUS4lV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

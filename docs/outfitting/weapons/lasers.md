@@ -20,7 +20,8 @@ Lasers in general have low damage per unit of distributor energy consumed (Damag
 |Experimental|Available On|Effect|
 |-|-|-|
 |:material-star: Emissive|Pulse|Duration scales with damage, does not stack. Prevents loss of target lock if target heat is low|
-|Oversized|All|Increases Damage|
-|Thermal Vent|Beam|Thermal load stat of the weapon is inverted if the weapon hits a ship|
+|:material-star: Thermal Shock|Causes NPCs hit to heat up, which in sufficient quantities can overwhelm their AI, making them less effective|
+|Thermal Vent|Beam|Thermal load stat of the weapon is inverted if the weapon hits a ship. This helps cool down your ship, but limited usefulness in PvE.|
 |Thermal Conduit|Beam|Linear damage buff scaling from 90% heat to 150% heat topping out at +60% damage|
 |Phasing|Pulse, Burst|The 10% of default damage lost is applied through shields directly to the hull, in form of absolute damage|
+|Oversized|All|Slightly increases Damage|

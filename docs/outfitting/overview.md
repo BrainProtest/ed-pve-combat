@@ -2,13 +2,13 @@
 
 ## Notes
 
-It is not recommended to upgrade to the next ship as soon as the basic hull is affordable. Ships without upgraded modules are with no exception bad, and will most likely represent a downgrade from a previous upgraded ship.
+Only upgrade to a new ships when you can also afford modules, not just the bare hull. Ships without upgraded modules are with no exception bad, and will most likely represent a downgrade from a smaller, cheaper but fully upgraded ship.
 
-On combat ships, you should only carry modules directly beneficial to the ships combat effectiveness under normal circumstances.
+On combat ships, you should only carry modules directly beneficial to the ships combat effectiveness under normal circumstances. Leave that docking computer at home.
 
-PvE combat ships are not built for and will fail miserably if subject to other forms of combat, such as AX combat or PvP, as they are built to receive different damage types and for different forms of engagement.
+PvE combat ships are not built for and will fail miserably if subject to other specialized forms of combat, such as AX PvE combat or PvP, as they are built to receive different damage types and are also optimized for sustainability.
 
-The build process as described is aimed at usage with sites such as coriolis.io and edsy.org. The ingame outfitting menu is no fit for this task!
+The build process as described is aimed at usage with sites such as [:material-link: E:D Shipyard](https://edsy.org). The ingame outfitting menu is no fit for this task!
 
 Where engineering is mentioned, apply the highest grade you have access to (unless otherwise specified), or ignore completely if you have no access to it.
 

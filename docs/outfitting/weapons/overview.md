@@ -3,9 +3,9 @@
 ## General Considerations
 
 - Keep damage types and their advantages & disadvantages in mind! Refer to [:material-information-outline: Tactics/Damage](../../tactics/damage.md).
-- If mixing thermal and kinetic weaponry, the latter should be put on the larger hardpoints and the former on the smaller. Smaller weapons get a debuff against bigger enemy ships.
-- A balance has to be found between DPS output and ammo dependency. High DPS weapons usually don't have much ammo.
-- The weapon loadout should be designed with the distributor in mind. If your weapon loadout can just about be sustained indefinitely on 4 pips then it's easy to run without throwing away potential. Once you can only support 75% of your weaponry at 4pips indefinitely you might wanna reduce the distro draw.
+- If mixing thermal and kinetic weaponry, the latter should be put on the larger hardpoints and the former on the smaller. Smaller weapons get a hull damage debuff against bigger enemy ships (damaging shields is not affected).
+- Consider DPS output versus ammo dependency. High DPS weapons usually don't have much ammo.
+- The weapon loadout should be designed with the distributor in mind. If your weapon loadout can just about be sustained indefinitely on 4 pips then it's easy to run without throwing away potential. If the distributors recharge can only cover 75% of your weapons energy usage at 4 pips, consider changes to reduce pressure on your distributor.
 
 ## Weapon Mounting 
 

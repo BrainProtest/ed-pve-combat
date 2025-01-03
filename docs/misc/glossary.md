@@ -2,11 +2,11 @@
 {#afmu}
 * **Alpha**: Per round/shot damage
 {#alpha}
-* **Convergence**: The separation of hardpoints between each other. Using fixed ToT: Time On Target. The ability of the player or the requirement of a weapon to aim at a target continuously. Weaponry on far apart hardpoints will make it hard or impossible to hit all at the same time.
+* **Convergence**: The separation of hardpoints between each other. Using fixed weaponry on far apart hardpoints will make it hard or impossible to hit all at the same time.
 {#convergence}
 * **Distributor**: Refers to the Power Distributor Module found in the Core Internals of every ship
-*[Double Banking]: A technique that allows the use of two shield cells on just one heatsink without overheating. See Double Banking
 {#distributor}
+* **Double Banking**: A technique that allows the use of two shield cells on just one heatsink without overheating. See [Double Banking](../outfitting/defense.md#doublebanking)
 * **Hitscan**: Infinite Projectile speed (where you aim is where you hit, no delay)
 {#hitscan}
 * **Hotbanking**: Using a shield cell without a heatsink. If heat damage occurs, it is expected.

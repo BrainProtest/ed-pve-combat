@@ -54,7 +54,7 @@ These modules provide temporary damage resistance against module damage
     * Largest optional slot first
     * Largest military slot
 * When running multiple MRPs the first package to take damage should be as fast as possible to prolong time of high protection
-* The cockpit counts as an internal module as far as MRPs go, but can take damage from hull hits at low hull integrity, which bypasses MRP damage reduction completely.
+* The cockpit counts as an internal module as far as MRPs go, but can take damage from hull hits at low ship integrity, which bypasses MRP damage reduction completely.
 
 ## Shield Cell Bank
 

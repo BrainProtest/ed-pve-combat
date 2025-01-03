@@ -25,7 +25,7 @@ Stock Beam Laser damage falloff demonstrated through the profiles view in [:mate
 ## Breaching (Internal module damage)
 
 * Each weapon has a maximum and minimum breach chance.
-* Whenever a weapon hits hull, a breach roll occurs against breach chance interpolated by the hull integrity (not hull health! Refer to [:material-information-outline: Hull Integrity](./general.md#hull-integrity))
+* Whenever a weapon hits hull, a breach roll occurs against breach chance interpolated by the ship integrity (not hull health! Refer to [:material-information-outline: Ship Integrity](./general.md#ship-integrity))
 * If the breach roll succeeds, the incoming damage is multiplied by the hull resistances
 * When breaching:
     * A ray across the projectiles movement direction is traced through the ship
