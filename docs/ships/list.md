@@ -12,7 +12,8 @@ This list aims to evaluate all ships in regards to PvE combat effectiveness vs. 
 |:material-star::material-star-outline:{.grey}:material-star-outline:{.grey}:material-star-outline:{.grey}:material-star-outline:{.grey}|	Asp Scout	|Common Noobtrap!|
 |:material-star::material-star-outline:{.grey}:material-star-outline:{.grey}:material-star-outline:{.grey}:material-star-outline:{.grey}|	Beluga Liner	||
 |:material-star::material-star::material-star::material-star-outline:{.grey}:material-star-outline:{.grey}|	Cobra Mk III	||
-|:material-star::material-star::material-star::material-star-outline:{.grey}:material-star-outline:{.grey}|	Cobra Mk IV	||
+|:material-star::material-star::material-star::material-star-outline:{.grey}:material-star-outline:{.grey}|	Cobra Mk IV	|Kickstarter Exclusive, cannot be bought|
+|:material-star::material-star::material-star::material-star::material-star:|	[:material-information-outline: Cobra Mk V](./cobra5.md)	||
 |:material-star::material-star::material-star-outline:{.grey}:material-star-outline:{.grey}:material-star-outline:{.grey}|	Diamondback Explorer	||
 |:material-star::material-star::material-star::material-star::material-star-outline:{.grey}|	[:material-information-outline: Diamondback Scout](./diamondbackscout.md)	||
 |:material-star::material-star-outline:{.grey}:material-star-outline:{.grey}:material-star-outline:{.grey}:material-star-outline:{.grey}|	Dolphin	||

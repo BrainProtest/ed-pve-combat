@@ -14,19 +14,22 @@
 |Ship||Notes|
 |:-|:-|:-|
 |![](../assets/icons/eagle-mk-ii.svg){.image100 loading=lazy}|[:material-information-outline: Eagle Mk. 2](./eagle2.md) | Very agile but also squishy and limited offense. Only slightly cheaper than the Viper Mk. 3 |
-|![](../assets/icons/diamondback-scout.svg){.image100 loading=lazy}|[:material-information-outline: Diamondback Scout](./diamondbackscout.md) | Similar in stats to the Viper Mk. 3, just more expensive. |
-|![](../assets/icons/viper-mk-iv.svg){.image100 loading=lazy}|[:material-information-outline: Viper Mk. 4](./viper4.md) | Slower and tankier, more difficult to fly. |
-|![](../assets/icons/imperial-courier.svg){.image100 loading=lazy}|[:material-information-outline: Imperial Courier](./courier.md) | Can be engineered to be quite fast and have great shields. Requires Rank with the Empire. |
+|![](../assets/icons/diamondback-scout.svg){.image100 loading=lazy}|[:material-information-outline: Diamondback Scout](./diamondbackscout.md) | Similar in stats to the Viper Mk. 3, just more expensive |
+|![](../assets/icons/viper-mk-iv.svg){.image100 loading=lazy}|[:material-information-outline: Viper Mk. 4](./viper4.md) | Slower and tankier, more difficult to fly |
+|![](../assets/icons/imperial-courier.svg){.image100 loading=lazy}|[:material-information-outline: Imperial Courier](./courier.md) | Can be engineered to be quite fast and have great shields. Requires Rank with the Empire |
+|![](../assets/icons/d.svg){.image100 loading=lazy}|[:material-information-outline: Cobra Mk. 5](./cobra5.md) | Highly maneuverable and fast, good defense for a small ship. Comparable with the Vulture |
 
 ### Medium Ships
 
 |Ship||Notes|
 |:-|:-|:-|
 |![](../assets/icons/fer-de-lance.svg){.image100 loading=lazy}|[:material-information-outline: Fer-de-Lance](./ferdelance.md)|High skill floor and ceiling flight model, great hardpoints and very strong shields|
-|![](../assets/icons/alliance-challenger.svg){.image100 loading=lazy}|[:material-information-outline: Alliance Challenger](./challenger.md) |Very tanky and great offense.|
-|![](../assets/icons/alliance-crusader.svg){.image100 loading=lazy}|[:material-information-outline: Alliance Crusader](./crusader.md) |Slightly slower and less tanky than the Chieftain, but can equip a fighter hangar.|
-|![](../assets/icons/krait-mk-ii.svg){.image100 loading=lazy}|[:material-information-outline:  Krait Mk II](./krait2.md)|A very easy to learn but low potential flight model, however great offensive options, decent defense and the option to carry a fighter hangar.|
-|![](../assets/icons/python.svg){.image100 loading=lazy}|[:material-information-outline: Python](./python.md)|Not as easy to fly and slower, but tankier.|
+|![](../assets/icons/d.svg){.image100 loading=lazy}|[:material-information-outline: Python Mk. 2](./python2.md)|Impressive array of hardpoints, very strong shields and highly maneouverable|
+|![](../assets/icons/d.svg){.image100 loading=lazy}|[:material-information-outline: Mandalay](./python2.md)|Extremely agile, decent shields but somewhat lacking in offense|
+|![](../assets/icons/alliance-challenger.svg){.image100 loading=lazy}|[:material-information-outline: Alliance Challenger](./challenger.md) |Very tanky and great offense|
+|![](../assets/icons/alliance-crusader.svg){.image100 loading=lazy}|[:material-information-outline: Alliance Crusader](./crusader.md) |Slightly slower and less tanky than the Chieftain, but can equip a fighter hangar|
+|![](../assets/icons/krait-mk-ii.svg){.image100 loading=lazy}|[:material-information-outline:  Krait Mk II](./krait2.md)|A very easy to learn but low potential flight model, however great offensive options, decent defense and the option to carry a fighter hangar|
+|![](../assets/icons/python.svg){.image100 loading=lazy}|[:material-information-outline: Python](./python.md)|Not as easy to fly and slower, but tankier|
 
 <!-- |![](../assets/icons/mamba.svg){.image100 loading=lazy}|:wip: Mamba |Fast in a straight line, but less agile in other aspects. Very good shields, many big hardpoints with bad convergence.| -->
 <!-- |![](../assets/icons/krait-phantom.svg){.image100 loading=lazy}|:wip: Krait Phantom|Fast lightweight ship (similar flight model to the Krait Mk. 2) with great offensive and decent defensive options.| -->

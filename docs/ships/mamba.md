@@ -11,15 +11,15 @@ A definite downgrade from its brother the [:material-information-outline: Fer-de
 
 The only benefit over an [:material-information-outline: Alliance Chieftain](./chieftain.md) would be the ability to shieldtank unengineered, a downgrade in every other aspect.
 
-## :material-hexagon: Basic Build **89.1M Cr**
+## :material-hexagon: Basic Build **89.4M Cr**
 
-[:material-link: E:D Shipyard](https://edsy.org/#/L=HC00000H4C0SC0,HhR00HgB00FEE00FBG00Hdh00,DBw00DBw00DBw00DBw00DBw00Cjw00,9p300AAA00AOE00AcI00AsO00B8g00BLA00BZY00,,7T4007go007fE0012G0020m001-C00,PvE_0Combat_0_D_0Basic){target=_blank, .bulletinLink}
+[:material-link: E:D Shipyard](https://edsy.org/#/L=IC00000H4C0SC0,HhR00HgB00FEE00FBG00Hdh00,DBw00DBw00DBw00DBw00DBw00Cjw00,9p300AAA00AOE00AcJ00AsO00B8g00BLA00BZY00,,7T4007go007fE0012G0020m001-C00,PvE_0Combat_0_D_0Basic){target=_blank, .bulletinLink}
 <!-- [:material-link: Coriolis](){target=_blank, .bulletinLink} -->
 
-## :material-hexagon-multiple: Engineered Build **89.0M Cr**
+## :material-hexagon-multiple: Engineered Build **89.3M Cr**
 
 [:material-link: E:D Shipyard](https://edsy.org/#/L=HC00000H4C0S80,HhRG0BM_W0HgBG0BM_W0FEEG09M_W0FBGG09J_W0HdhG0BI_W0,DBwG09L_W0DBwG09L_W0DBwG09L_W0DBwG05L_W0DBwG05L_W0DBwG05L_W0,9p3G05I_W0AAAG03I_W0AOEG05I_W0AcIG05J_W0AsO00B8gG03L_W0BLeG05G_W0BZY00,,7T4G09I_W07goG054_W07fEG054_W07tn0020m001-C00,PvE_0Combat_0_D_0Full_0Engi){target=_blank, .bulletinLink}
 <!-- [:material-link: Coriolis](){target=_blank, .bulletinLink} -->
 
-Last updated: 
+Last updated: January 2025
 {: .hint }
