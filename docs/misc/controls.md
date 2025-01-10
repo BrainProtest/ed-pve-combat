@@ -44,11 +44,26 @@ Now in the **Options :material-arrow-right: Controls** menu, open the General, S
 * The preset differs greatly from the standard layout (in good ways only, tho)
 
 
-## Control Layout Diagram
+## Additional Files (WIP)
+
+|File|Description|
+|-|-|
+|[:material-file-download: Brains Gamepad Binds v1.0](../files/Brains Gamepad Binds v1.0.4.1.binds)|Basic gamepad binds setup|
+
 
 ## Explanations
 
-* The binds on the numpad are intended for supercruise.
+* Binding access priorities
+    * **Lateral/Vertical** thrust: Prio 1, must be able to hold down for long durations without tiring
+    * **Forward/Reverse** Thrust: Prio 2, must be easily reachable and possible to hold down for some time.
+    * **Pitch/Yaw** Rotation: Prio 1, should be analogue, required for fine aim control
+    * **Roll** Rotation: Prio 2, must be accessible at all times, digital is sufficient
+    * **Boost**: Prio 1
+    * **FA toggle**, **Landing gear**: Prio 2, important for some FA off flight styles (FA Toggle for quick hard vector changes, Landing Gear for boost capping, particularly fighting slow targets such as in PvE)
+    * **Pip Management**: Prio 1
+    * **Primary/Secondary Fire**: Prio 1, must be able to hold down comfortably
+    * Deploy **Heatsink**, use **Shieldcell**, deploy **Chaff**: Prio 3
+    * Cycle **Fire Group**, toggle **Cockpit Mode**, toggle **Night Vision**: Prio 3
 * What is wrong with the Standard Presets?
     * Pip Management is on the arrow keys, and with how important it is for efficient use of ship capabilities and resources, this is way out of reach in normal use.
     * Little emphasis is put on lateral and vertical thrusters, despite these being really important for efficient maneuvering

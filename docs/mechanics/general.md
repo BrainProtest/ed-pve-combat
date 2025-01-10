@@ -2,6 +2,8 @@
 
 ## Ship Integrity
 
+**NOTE**: This needs retesting (2025/01). Might be outdated, or never correct to start with
+
 * Besides the hull health (affected by armor and modules), ships have a hidden "ship integrity" stat
 * Slowly degrades over time
 * Quickly degrades when taking hull damage (roughly 75% hull health lost ⇒ ship integrity reaches 0%)
