@@ -23,23 +23,20 @@ Module presets in EDSY allow you to add an engineered module into a slot of your
 
 ### Included Modules
 
-- **Lightweight Bulkheads**: Heavy Duty - Deep Plating
-- **Milgrade Bulkheads**: Heavy Duty - Deep Plating, Lightweight  - Deep Plating
-- **Reactive Bulkheads**: Heavy Duty - Deep Plating, Lightweight  - Deep Plating, Thermal Resistant  - Deep Plating
+- **Lightweight Alloy Bulkheads**: Heavy Duty - Deep Plating
+- **Milgrade/Reactive/Mirrored Composite Bulkheads**: Heavy Duty - Deep Plating, Lightweight - Deep Plating
 - **All A-rated Powerplants**: Armoured - Monstered
-- **All A-rated Thrusters class 4+**: Dirty Drives - Drag Drives
-- **All A-rated FSDs**: Increased Range - Mass Manager
+- **All A-rated Thrusters class 4+**: Dirty Drives - Drag Drives, 3A EPT Thrusters: Dirty Drives - Drive Distributors
+- **All A-rated SCO FSDs**: Increased Range - Mass Manager (also the Broker V1 variant)
 - **All Life Support classes**: D-rated Lightweight, A-rated Lightweight
 - **All A-rated Power Distributors**: Charge Enhanced - Super Conduits
 - **All D-rated Sensors**: Long Range, Lightweight
-- **Chaff, Heatsink**: Ammo Capacity
-- **A-rated Shield Boosters**: Heavy Duty - Super Capacitors, Resistance Augmented - Super Capacitors, Thermal Resistant - Super Capacitors
-- **E-rated Shield Boosters**: Heavy Duty - Super Capacitors, Resistance Augmented - Super Capacitors
-- **1A FSD Interdictor**: Expanded Capture Arc
+- **Chaff, Heatsink**: Ammo Capacity (just for Chaff), Lightweight
+- **A-rated / E-rated Shield Boosters**: Heavy Duty - Super Capacitors, Resistance Augmented - Super Capacitors, Thermal Resistant - Super Capacitors
+- **1A FSD Interdictor**: Expanded Capture Arc G3, Long Range G3
 - **All D-rated Hull Reinforcement Packages**: Heavy Duty - Deep Plating
-- **Bi-Weaves classes 2+**: Thermal Resistant - (No experimental)
+- **Bi-Weaves classes 2+**: Thermal Resistant - (No experimental), also 7C & 8C Reinforced - (no experimental)
 - **Prismatics classes 3+**: Reinforced - High Cap
-- **Detailed Surface Scanner**: Expanded Radius
 
 ## How to add new Module Presets
 
