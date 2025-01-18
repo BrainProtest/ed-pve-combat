@@ -1,5 +1,5 @@
 # Imperial Courier
-![Ship Image](../assets/icons/imperial-courier.svg){.image250}
+![Ship Image](../assets/ships/Courier.svg){.image250}
 
 Hardpoint Configuration: [:material-link: E:D Ship Anatomy](https://siriuscorp.cc/edsa/?s=imperial-courier){target=_blank, .bulletinLink}
 

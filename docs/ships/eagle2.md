@@ -1,5 +1,5 @@
 # Eagle Mk. II
-![Ship Image](../assets/icons/eagle-mk-ii.svg){.image250}
+![Ship Image](../assets/ships/Eagle.svg){.image250}
 
 Hardpoint Configuration: [:material-link: E:D Ship Anatomy](https://siriuscorp.cc/edsa/?s=eagle){target=_blank, .bulletinLink}
 

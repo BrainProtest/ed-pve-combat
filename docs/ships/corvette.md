@@ -1,5 +1,5 @@
 # Federal Corvette
-![Ship Image](../assets/icons/federal-corvette.svg){.image250}
+![Ship Image](../assets/ships/Corvette.svg){.image250}
 
 Hardpoint Configuration: [:material-link: E:D Ship Anatomy](https://siriuscorp.cc/edsa/?s=federal-corvette){target=_blank, .bulletinLink}
 

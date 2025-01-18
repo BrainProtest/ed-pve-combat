@@ -1,5 +1,5 @@
 # Python
-![Ship Image](../assets/icons/python.svg){.image250}
+![Ship Image](../assets/ships/Python.svg){.image250}
 
 Hardpoint Configuration: [:material-link: E:D Ship Anatomy](https://siriuscorp.cc/edsa/?s=python){target=_blank, .bulletinLink}
 

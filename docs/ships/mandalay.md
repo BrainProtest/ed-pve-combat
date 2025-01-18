@@ -1,5 +1,5 @@
 # Mandalay :wip:
-![Ship Image](../assets/icons/d.svg){.image250}
+![Ship Image](../assets/ships/Mandalay.svg){.image250}
 
 Hardpoint Configuration: [:material-cancel: E:D Ship Anatomy (unavailable)](mandalay.md){target=_blank, .bulletinLink}
 

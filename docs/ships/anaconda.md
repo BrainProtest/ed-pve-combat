@@ -1,5 +1,5 @@
 # Anaconda
-![Ship Image](../assets/icons/anaconda.svg){.image250}
+![Ship Image](../assets/ships/Anaconda.svg){.image250}
 
 Hardpoint Configuration: [:material-link: E:D Ship Anatomy](https://siriuscorp.cc/edsa/?s=anaconda){target=_blank, .bulletinLink}
 

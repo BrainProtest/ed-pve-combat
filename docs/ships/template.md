@@ -1,5 +1,5 @@
 # Template :wip:
-![Ship Image](../assets/icons/d.svg){.image250}
+![Ship Image](../assets/ships/d.svg){.image250}
 
 Hardpoint Configuration: [:material-link: E:D Ship Anatomy](https://siriuscorp.cc/edsa/?s=){target=_blank, .bulletinLink}
 

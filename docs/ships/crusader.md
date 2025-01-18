@@ -1,6 +1,6 @@
 # Alliance Crusader
 
-![Ship Image](../assets/icons/alliance-crusader.svg){.image250 }
+![Ship Image](../assets/ships/Crusader.svg){.image250 }
 
 [:material-link: Ship Anatomy](https://siriuscorp.cc/edsa/?s=alliance-crusader){target=_blank, .bulletinLink}
 

@@ -1,5 +1,5 @@
 # Viper Mk. III
-![Ship Image](../assets/icons/viper-mk-iii.svg){.image250}
+![Ship Image](../assets/ships/Viper3.svg){.image250}
 
 Hardpoint Configuration: [:material-link: E:D Ship Anatomy](https://siriuscorp.cc/edsa/?s=viper-mk-iii){target=_blank, .bulletinLink}
 

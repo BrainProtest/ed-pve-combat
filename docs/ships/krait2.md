@@ -1,5 +1,5 @@
 # Krait Mk. II
-![Ship Image](../assets/icons/krait-mk-ii.svg){.image250}
+![Ship Image](../assets/ships/Krait.svg){.image250}
 
 Hardpoint Configuration: [:material-link: E:D Ship Anatomy](https://siriuscorp.cc/edsa/?s=krait-mk-ii){target=_blank, .bulletinLink}
 

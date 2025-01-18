@@ -1,5 +1,5 @@
 # Viper Mk. IV
-![Ship Image](../assets/icons/viper-mk-iv.svg){.image250}
+![Ship Image](../assets/ships/Viper4.svg){.image250}
 
 Hardpoint Configuration: [:material-link: E:D Ship Anatomy](https://siriuscorp.cc/edsa/?s=viper-mk-iv){target=_blank, .bulletinLink}
 

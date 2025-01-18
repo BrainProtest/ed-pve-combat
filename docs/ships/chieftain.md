@@ -1,5 +1,5 @@
 # Alliance Chieftain
-![Ship Image](../assets/icons/alliance-chieftain.svg){.image250}
+![Ship Image](../assets/ships/Chieftain.svg){.image250}
 
 Hardpoint Configuration: [:material-link: E:D Ship Anatomy](https://siriuscorp.cc/edsa/?s=alliance-chieftain){target=_blank, .bulletinLink}
 

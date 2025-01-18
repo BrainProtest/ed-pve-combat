@@ -1,5 +1,5 @@
 # Alliance Challenger
-![Ship Image](../assets/icons/alliance-challenger.svg){.image250}
+![Ship Image](../assets/ships/Challenger.svg){.image250}
 
 Hardpoint Configuration: [:material-link: E:D Ship Anatomy](https://siriuscorp.cc/edsa/?s=alliance-challenger){target=_blank, .bulletinLink}
 

@@ -1,5 +1,5 @@
 # Diamondback Scout
-![Ship Image](../assets/icons/diamondback-scout.svg){.image250}
+![Ship Image](../assets/ships/DBS.svg){.image250}
 
 Hardpoint Configuration: [:material-link: E:D Ship Anatomy](https://siriuscorp.cc/edsa/?s=diamondback-scout){target=_blank, .bulletinLink}
 

@@ -1,5 +1,5 @@
 # Vulture
-![Ship Image](../assets/icons/vulture.svg){.image250}
+![Ship Image](../assets/ships/Vulture.svg){.image250}
 
 By far the best ship on a small pad. Comes with a pricetag to match, but still well worth it:
 
